@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bienku
 - 👀 I’m interested in anything software development related
-- ⚙️ I use daily: `.tsx`, `ts`, `.html`, `.css`, `.svg`
+- ⚙️ I use daily: `.tsx`, `.ts`, `.html`, `.scss`, `.svg`
 - 📫 How to reach me: krzysztofzbienias@gmail.com
 - 🤖 Discord: `krzychu2499`
